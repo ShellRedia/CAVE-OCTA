@@ -68,7 +68,7 @@ The CAVE-OCTA is trigger by a style adapter and a optional control-net, you can 
 
 Related paper: https://arxiv.org/abs/2210.04885
 
-You can use DAAM tool to get attention heatmap of the prompt words.
+Using DAAM tool can get attention heatmap of the prompt words.
 
 ![Steps](./figures/activate_heatmap.png)
 
@@ -79,7 +79,3 @@ You can use DAAM tool to get attention heatmap of the prompt words.
 #### Prompt Images Producer
 
 **make_prompt_images.py** can produce the prompt images of boudary, certerline, and skeleton.
-
-### 2. Notes
-
-The paper corresponding to this repository is currently under review, and more details will be disclosed after the paper is accepted.
